@@ -73,10 +73,10 @@ button:hover {
     background: rgb(45, 145, 145);
 }
 .card_img:hover {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     border-radius: unset;
     transform: unset;
     border: none;
-    border: 3px solid rgb(33, 163, 21);
+    /* border: 3px solid rgb(33, 163, 21); */
 }
