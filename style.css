@@ -66,11 +66,13 @@ button{
     border: 3px solid rgb(21, 255, 0);
     background: transparent;
     color: white;
+    /* color: red; */
     border-radius: 10px;
     transition: 0.5s;
 }
 button:hover {
     background: rgb(45, 145, 145);
+    /* background: #fffbf8; */
 }
 .card_img:hover {
     width: 400px;
